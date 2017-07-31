@@ -1,4 +1,4 @@
-# Data-Analysis-with-RUsed R programming to explore the dataset.
+# Data-Analysis-with-R
 
 Using R Studio, analyzed the sample Facebook data. The datafile is in TSV (Tab Separated Values) format. 
 Explored loading the data into R studio and gained the insights on :
